@@ -1,2 +1,2 @@
 # DataAnalysis_EDA
- My Jupyter Notebook on the way to be DS :33
+ My Jupyter Notebook for Data Analysis - FIT HCMUS
